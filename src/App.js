@@ -2,7 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (    
+  return (  
+      
       <div>
         <h1>Lista de Compras</h1>
         <ul>
